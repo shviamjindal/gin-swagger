@@ -9,7 +9,7 @@ import (
 )
 
 var doc = `{
-    "swagger": "2.0",
+    "swagger": "1.0",
     "info": {
         "description": "This is a sample server Petstore server.",
         "title": "Swagger Example API",
